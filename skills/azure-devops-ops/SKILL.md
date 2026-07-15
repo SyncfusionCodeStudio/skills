@@ -1,9 +1,6 @@
 ---
 name: azure-devops-ops
 description: Runs Azure DevOps CRUD-style operations from chat by securely prompting for an Azure DevOps Personal Access Token (PAT) and executing a PowerShell script. Use when you need read, retrieve-all, create, update, or delete operations similar to MCP behavior.
-metadata:
-  author: maui-custom-controls
-  version: "1.0"
 compatibility: Requires PowerShell 7+ (pwsh) and network access to dev.azure.com.
 ---
 
